@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⛩️**Fullstack Solana Blockchain Developer** & **Nomad**
+I build fast, secure dApps using **Rust**, **TypeScript**, **Next.js**, and **Tailwind** on the **Solana Blockchain**.
 
-<!--
-**AndreiTotoro/AndreiTotoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 **Tech Stack**
 
-Here are some ideas to get you started:
+- **Solana**: Smart contracts with **Rust** && **Anchor**.
+- **Frontend**: **Next.js/React**, **Tailwind CSS**, **ShadcnUI**.
+- **Backend**: **Next.js**, **Express**, **Rust** APIs.
+- **Databases**: **PostgreSQL**, **MySQL**, **MongoDB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 **What I Do**
+
+- Build fullstack decentralized apps (dApps).
+- Write secure, efficient smart contracts.
+- Create smooth, responsive user interfaces.
+
+## 🌍 **Nomad**
+
+When I'm not coding, I’m roaming the globe, bringing fresh perspectives to both life and development.
