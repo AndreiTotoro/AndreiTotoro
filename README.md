@@ -7,6 +7,7 @@ I build dApps using **Rust**, **TypeScript**, **Next.js**, and **Tailwind** on t
 - **Frontend**: **Next.js/React**, **TypeScript**, **Tailwind CSS**, **ShadcnUI**.
 - **Backend**: **Next.js**, **Express**, **PHP**, **Rust** APIs.
 - **Databases**: **PostgreSQL**, **MySQL**, **MongoDB**.
+- **DevOps**: **Alpine Linux**, **Nginx**, **Docker**, **Cron/GitHub CD/CI Actions**
 - **Algorithms**: **Python**, **C++**, **Rust**.
 
 ## **My work**
