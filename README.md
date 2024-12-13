@@ -1,11 +1,11 @@
 # ⛩️**Fullstack Solana Blockchain Developer** & **Nomad**
-I build fast, secure dApps using **Rust**, **TypeScript**, **Next.js**, and **Tailwind** on the **Solana Blockchain**.
+I build dApps using **Rust**, **TypeScript**, **Next.js**, and **Tailwind** on the **Solana Blockchain**.
 
 ## 🛠 **Tech Stack**
 
 - **Solana**: Smart contracts with **Rust** and **Anchor**.
-- **Frontend**: **Next.js/React**, **Tailwind CSS**, **ShadcnUI**.
-- **Backend**: **Next.js**, **Express**, **Rust** APIs.
+- **Frontend**: **Next.js/React**, **TypeScript**, **Tailwind CSS**, **ShadcnUI**.
+- **Backend**: **Next.js**, **Express**, **PHP**, **Rust** APIs.
 - **Databases**: **PostgreSQL**, **MySQL**, **MongoDB**.
 - **Algorithms**: **Python**, **C++**, **Rust**.
 
