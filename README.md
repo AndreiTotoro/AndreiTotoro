@@ -3,10 +3,11 @@ I build fast, secure dApps using **Rust**, **TypeScript**, **Next.js**, and **Ta
 
 ## 🛠 **Tech Stack**
 
-- **Solana**: Smart contracts with **Rust** && **Anchor**.
+- **Solana**: Smart contracts with **Rust** and **Anchor**.
 - **Frontend**: **Next.js/React**, **Tailwind CSS**, **ShadcnUI**.
 - **Backend**: **Next.js**, **Express**, **Rust** APIs.
 - **Databases**: **PostgreSQL**, **MySQL**, **MongoDB**.
+- **Algorithms**: **Python**, **C++**, **Rust**.
 
 ## 🧠 **What I Do**
 
