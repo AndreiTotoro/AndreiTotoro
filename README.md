@@ -1,5 +1,5 @@
 # **Personal Website**
-[ciocoiu.dev](ciocoiu.dev)
+[ciocoiu.dev](https://ciocoiu.dev)
 
 # ⛩️**Software Engineer** & **Nomad**
 I build fullstack decentralized apps (dApps) using **Rust**, **TypeScript**, **Next.js**, and **Tailwind** on the **Solana Blockchain**.
